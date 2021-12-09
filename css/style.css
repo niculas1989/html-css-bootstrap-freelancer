@@ -2,3 +2,8 @@ header {
     background-color: #2C3F4F;
     height: 100px;
 }
+
+#jumbotrone {
+    height: 500px;
+    background-color: #1CBC9B;
+}
