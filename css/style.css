@@ -7,3 +7,11 @@ header {
     height: 500px;
     background-color: #1CBC9B;
 }
+
+.col-visible {
+    height: 400px;
+}
+
+.bg-forest-green {
+    background-color: forestgreen;
+}
