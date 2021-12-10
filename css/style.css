@@ -26,6 +26,10 @@
     height: 300px;
 }
 
+#button-download button {
+    color: white;
+}
+
 .col-visible {
     height: 400px;
 }
@@ -35,9 +39,7 @@
 }
 
 #about {
-    height: 700px;
     background-color: #1CBC9B;
-
 }
 
 footer {
