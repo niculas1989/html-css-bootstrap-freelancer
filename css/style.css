@@ -30,17 +30,13 @@
     color: white;
 }
 
+#footer-top button {
+    color: white;
+}
+
 #contact-me .form-control {
     border: none;
     border-bottom: 1px solid #ced4da;
-}
-
-.col-visible {
-    height: 400px;
-}
-
-.bg-forest-green {
-    background-color: forestgreen;
 }
 
 #about {
@@ -49,15 +45,13 @@
 
 footer {
     height: 500px;
+    background-color: #3B546E;
 }
 
-.upper-footer {
-    height: 75%;
+#footer-bottom {
+    background-color: #2C3F4F;
 }
 
-.bottom-footer {
-    height: 25%;
-}
 
 @media screen and (min-width: 768px) {
     .col-visible {
