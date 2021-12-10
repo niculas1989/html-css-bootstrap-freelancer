@@ -52,6 +52,14 @@ footer {
     background-color: #2C3F4F;
 }
 
+.line {
+    height: 5px;
+    /* background-color: #fff;
+    color: white; */
+    color: currentColor;
+    width: 70px;
+}
+
 
 @media screen and (min-width: 768px) {
     footer {
