@@ -1,8 +1,19 @@
-header {
+
+/* Header */
+.bg-blue {
     background-color: #2C3F4F;
-    height: 100px;
 }
 
+#navbar-navigation a {
+    color: white;
+}
+
+#navbar-navigation .navbar-collapse {
+    flex-grow: 0;
+}
+
+
+/* Jumbotron */
 #jumbotrone {
     height: 500px;
     background-color: #1CBC9B;
