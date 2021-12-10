@@ -12,10 +12,13 @@
     flex-grow: 0;
 }
 
+.color-blue {
+    color: #2C3F4F;
+}
+
 
 /* Jumbotron */
 #jumbotrone {
-    height: 500px;
     background-color: #1CBC9B;
 }
 
