@@ -52,6 +52,10 @@ footer {
     background-color: #2C3F4F;
 }
 
+#about .btn-outline-secondary {
+    border-color: #fff;
+}
+
 .line {
     height: 5px;
     /* background-color: #fff;
